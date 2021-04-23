@@ -29,5 +29,7 @@ git clone https://github.com/project-lede/luci-app-godproxy.git package/luci-app
 git clone https://github.com/garypang13/luci-app-bypass.git package/luci-app-bypass
 # git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
 git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
+git clone https://github.com/frainzy1477/luci-app-clash.git package/luci-app-clash
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
 # git clone https://github.com/ITdesk01/jd_openwrt_script.git package/jd_openwrt_script
 svn co https://github.com/garypang13/openwrt-packages/trunk/smartdns-le package/smartdns-le
